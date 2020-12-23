@@ -1,7 +1,25 @@
 const array = [
-"test1",
-"test2",
-"tes3"
+"Bra",
+"Whitey Tighties",
+"Peanut",
+"George Washington",
+"Watermelon",
+"Willy Wonka",
+"Tadpole",
+"Emoji",
+"Porous",
+"Sentimental",
+"Dream",
+"Kite",
+"Artfull",
+"Geico",
+"Spam",
+"Chamomile",
+"Derelict",
+"Need",
+"Photo Credit",
+"Mucus",
+"Napalm"
 ]
 
 const btn = document.getElementById("mainBtn")
